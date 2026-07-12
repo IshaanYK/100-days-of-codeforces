@@ -1,0 +1,3 @@
+# Ignore local agent settings and token configurations
+.agents/
+.agents/github_token.json
