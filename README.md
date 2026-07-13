@@ -1,1 +1,62 @@
-# 🚀 100 Days of Codeforces\n\nWelcome to my **100 Days of Codeforces Challenge!**\n\nThe purpose of this repository is to stay consistent with competitive programming while improving my knowledge of:\n\n- ✅ Problem Solving\n- ✅ Data Structures\n- ✅ Algorithms\n- ✅ Mathematics\n- ✅ Greedy\n- ✅ Dynamic Programming\n- ✅ Graphs\n- ✅ Binary Search\n- ✅ Implementation\n\n---\n\n## 🎯 Goal\n\nSolve **one Codeforces problem every day** for **100 consecutive days**.\n\nEvery day's folder contains:\n\n- 📄 Problem Name\n- 💡 Explanation\n- ⚙️ Approach\n- 💻 C++ Solution\n- ⏱️ Time Complexity\n- 💾 Space Complexity\n\n---\n\n## 📅 Progress\n\n| Day | Problem | Rating | Status |\n|-----|---------|--------|--------|\n| 1 | [Another Popcount Problem](./Day01) | 800 | ✅ |\n| 2 | [Another Puzzle from Papyrus](./Day02) | 800 | ✅ |\n| 3 | [Destroying Towers](./Day03) | 800 | ✅ |\n| 4 | [Tatar TV Show](./Day04) | 800 | ✅ |\n| 5 | [Games on the Train](./Day05) | 800 | ✅ |\n| 6 | [Palindrome, Twelve and Two Terms](./Day06) | 800 | ✅ |\n| 7 | [Euclid, Sequence and Two Numbers](./Day07) | 800 | ✅ |\n| 8 | [AI Project Development](./Day08) | 800 | ✅ |\n| 9 | [Convergence](./Day09) | 800 | ✅ |\n| 10 | [Construct an Array](./Day10) | 800 | ✅ |\n| 11 | [Optimal Purchase](./Day11) | 800 | ✅ |\n| ... | ... | ... | 🚀 |\n\n---\n\n## 📈 Why this Challenge?\n\nCompetitive programming isn't about solving hundreds of problems in one day—it's about improving a little every day.\n\nThis repository documents my journey toward becoming a better software engineer and competitive programmer through consistent practice.\n\n---\n\n⭐ If you like this repository, feel free to star it!\n
+# 🚀 100 Days of Codeforces
+
+Welcome to my **100 Days of Codeforces Challenge!**
+
+The purpose of this repository is to stay consistent with competitive programming while improving my knowledge of:
+
+- ✅ Problem Solving
+- ✅ Data Structures
+- ✅ Algorithms
+- ✅ Mathematics
+- ✅ Greedy
+- ✅ Dynamic Programming
+- ✅ Graphs
+- ✅ Binary Search
+- ✅ Implementation
+
+---
+
+## 🎯 Goal
+
+Solve **one Codeforces problem every day** for **100 consecutive days**.
+
+Every day's folder contains:
+
+- 📄 Problem Name
+- 💡 Explanation
+- ⚙️ Approach
+- 💻 C++ Solution
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+
+---
+
+## 📅 Progress
+
+| Day | Problem | Rating | Status |
+|-----|---------|--------|--------|
+| 1 | [Another Popcount Problem](./Day01) | 800 | ✅ |
+| 2 | [Another Puzzle from Papyrus](./Day02) | 800 | ✅ |
+| 3 | [Destroying Towers](./Day03) | 800 | ✅ |
+| 4 | [Tatar TV Show](./Day04) | 800 | ✅ |
+| 5 | [Games on the Train](./Day05) | 800 | ✅ |
+| 6 | [Palindrome, Twelve and Two Terms](./Day06) | 800 | ✅ |
+| 7 | [Euclid, Sequence and Two Numbers](./Day07) | 800 | ✅ |
+| 8 | [AI Project Development](./Day08) | 800 | ✅ |
+| 9 | [Convergence](./Day09) | 800 | ✅ |
+| 10 | [Construct an Array](./Day10) | 800 | ✅ |
+| 11 | [Optimal Purchase](./Day11) | 800 | ✅ |
+| 12 | [Absolute Cinema](./Day12) | 1000 | ✅ |
+| ... | ... | ... | 🚀 |
+
+---
+
+## 📈 Why this Challenge?
+
+Competitive programming isn't about solving hundreds of problems in one day—it's about improving a little every day.
+
+This repository documents my journey toward becoming a better software engineer and competitive programmer through consistent practice.
+
+---
+
+⭐ If you like this repository, feel free to star it!
