@@ -47,6 +47,7 @@ Every day's folder contains:
 | 10 | [Construct an Array](./Day10) | 800 | ✅ |
 | 11 | [Optimal Purchase](./Day11) | 800 | ✅ |
 | 12 | [Absolute Cinema](./Day12) | 1000 | ✅ |
+| 13 | [Slimes on a Line](./Day13) | 800 | ✅ |
 | ... | ... | ... | 🚀 |
 
 ---
